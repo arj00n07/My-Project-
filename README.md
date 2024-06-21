@@ -1,2 +1,2 @@
-# My-Project-
+# My-Project
 This is the project I created 
